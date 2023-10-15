@@ -6,7 +6,7 @@ A collaborative project between DD22 (digital designers) and WU (web dev). The e
 
 One more, interesting term was that the site was to be split in two different sections. One section was supposed to cover Kino Kosyk itself, and the other should cover the photographer/author Joanna Helander. The sections should however be so closed-knit that you could move freely between them via menus. There were a lot of different challenges here, not to mention Wordpress itself. :)
 
-[Deployed site](https://emma-hedlund.se/Kinokoszyk/)
+[Emma's repository]()
 
 ### Participants
 DD: 1. CesarOst, 2. Tony, 3. Gabrielle, 4. Digital Mauricio<br>
